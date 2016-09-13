@@ -6,3 +6,7 @@ There are several advantages to computerized testing including being able to qui
 More technically, Neuropeak was programmed in javascript and php. This way it is accessible by browser and it is highly "portable". A MySQL database keeps track of all the testing from different researcher teams. The main goal is to create normative data allowing us to detect accurately mild cognitive impairment.
 
 for more information, visit http://www.lesca.ca/neuropeak/index2.php
+
+![Alt text](screenshot1.jpg?raw=true "Title")
+![Alt text](screenshot2.jpg?raw=true "Title")
+![Alt text](screenshot3.jpg?raw=true "Title")
